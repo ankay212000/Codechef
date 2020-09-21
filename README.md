@@ -1,6 +1,6 @@
 # Codechef
 Codechef Short Contest solutions (starting from 2020)
-## September Cook-Off 2020
+## September Cook-Off 2020 (<a href="https://www.codechef.com/COOK122B">Div2</a>)
 | Index | Problem | Editorial |  
 | --- | --- | --- | 
 | 1 | [Bowlers Strategy](https://www.codechef.com/COOK122B/problems/BOWLERS) | [Video Editorial](https://www.youtube.com/watch?v=KIwEvwg5pTs) |  
