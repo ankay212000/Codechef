@@ -12,3 +12,4 @@ Codechef Short Contest solutions (starting from 2020)
 | --- | --- | --- | 
 | 1 | [Watermelon ](https://www.codechef.com/LTIME88B/problems/WATMELON) | [Video Editorial](https://youtu.be/sb87a-G-lSU) |  
 | 2 | [GCD operations](https://www.codechef.com/LTIME88B/problems/GCDOPS) | [Video Editorial](https://youtu.be/-p9h9ZIoHD0) | 
+| 3 | [Root the tree](https://www.codechef.com/problems/ROOTTREE) | [Video Editorial](https://www.youtube.com/watch?v=Joezp9YzE5M) |
